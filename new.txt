@@ -1,0 +1,2 @@
+This is my new text file for step 4 - more terminal style.
+I love GitHub
